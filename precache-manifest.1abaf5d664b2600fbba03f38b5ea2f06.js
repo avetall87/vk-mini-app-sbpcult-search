@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1da84afd294c756dbfe7d8284dce56af",
+    "revision": "af5f1b95bce98b67b540f3d916b55e5b",
     "url": "/vk-mini-app-sbpcult-search/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk-mini-app-sbpcult-search/static/css/2.6326594c.chunk.css"
   },
   {
-    "revision": "c8e3d13cb0d8341f664b",
+    "revision": "4dfe85f81a77e7a8a290",
     "url": "/vk-mini-app-sbpcult-search/static/css/main.3c1424a7.chunk.css"
   },
   {
@@ -20,11 +20,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk-mini-app-sbpcult-search/static/js/2.a04ecc38.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c8e3d13cb0d8341f664b",
-    "url": "/vk-mini-app-sbpcult-search/static/js/main.0930881e.chunk.js"
+    "revision": "4dfe85f81a77e7a8a290",
+    "url": "/vk-mini-app-sbpcult-search/static/js/main.322beb62.chunk.js"
   },
   {
     "revision": "e80004c83c5d8f009dce",
     "url": "/vk-mini-app-sbpcult-search/static/js/runtime-main.23a25730.js"
+  },
+  {
+    "revision": "35abf5cecb4cd8a1e73b575a46fd54fe",
+    "url": "/vk-mini-app-sbpcult-search/static/media/narodnoe-priznanie-logotip_150.35abf5ce.png"
   }
 ]);
