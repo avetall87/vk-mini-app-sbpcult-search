@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vk-mini-app-spb-archive-search/static/css/main.3c1424a7.chunk.css",
+    "main.js": "/vk-mini-app-spb-archive-search/static/js/main.2a124835.chunk.js",
+    "main.js.map": "/vk-mini-app-spb-archive-search/static/js/main.2a124835.chunk.js.map",
+    "runtime-main.js": "/vk-mini-app-spb-archive-search/static/js/runtime-main.97140562.js",
+    "runtime-main.js.map": "/vk-mini-app-spb-archive-search/static/js/runtime-main.97140562.js.map",
+    "static/css/2.6326594c.chunk.css": "/vk-mini-app-spb-archive-search/static/css/2.6326594c.chunk.css",
+    "static/js/2.a04ecc38.chunk.js": "/vk-mini-app-spb-archive-search/static/js/2.a04ecc38.chunk.js",
+    "static/js/2.a04ecc38.chunk.js.map": "/vk-mini-app-spb-archive-search/static/js/2.a04ecc38.chunk.js.map",
+    "index.html": "/vk-mini-app-spb-archive-search/index.html",
+    "precache-manifest.928b4075d236a256835d3c8b21e4c871.js": "/vk-mini-app-spb-archive-search/precache-manifest.928b4075d236a256835d3c8b21e4c871.js",
+    "service-worker.js": "/vk-mini-app-spb-archive-search/service-worker.js",
+    "static/css/2.6326594c.chunk.css.map": "/vk-mini-app-spb-archive-search/static/css/2.6326594c.chunk.css.map",
+    "static/css/main.3c1424a7.chunk.css.map": "/vk-mini-app-spb-archive-search/static/css/main.3c1424a7.chunk.css.map",
+    "static/js/2.a04ecc38.chunk.js.LICENSE.txt": "/vk-mini-app-spb-archive-search/static/js/2.a04ecc38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97140562.js",
+    "static/css/2.6326594c.chunk.css",
+    "static/js/2.a04ecc38.chunk.js",
+    "static/css/main.3c1424a7.chunk.css",
+    "static/js/main.2a124835.chunk.js"
+  ]
+}
